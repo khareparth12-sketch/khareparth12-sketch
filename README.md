@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Parth
+# 👋 Hi, I’m Parth Khare
 
 I’m a Python-focused developer and aspiring AI/ML engineer who enjoys turning raw data into scalable systems and actionable intelligence.  
 Currently exploring the intersection of **data science, machine learning, and backend engineering**, with a long-term goal of building production-grade AI applications.
@@ -12,13 +12,9 @@ Currently exploring the intersection of **data science, machine learning, and ba
 
 ---
 
-##  Tech Stack
+##  Skill Stack
 
-### **Core Skills**
-- **Languages:** Python, TypeScript, SQL  
-- **Data & ML:** Pandas, NumPy  
-- **Frontend:** React  
-- **Tools:** Git  
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,c,java,html,css,bootstrap,react,js,typescript,git,github,vscode&theme=light)](https://skillicons.dev)  
 
 ### **Currently Exploring**
 - FastAPI, Flask  
@@ -27,23 +23,38 @@ Currently exploring the intersection of **data science, machine learning, and ba
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 🔹 Vendor Performance Analysis
-- Built a **scalable SQL ETL pipeline** and performed Python EDA to evaluate vendor profitability, pricing, and inventory efficiency.
-- Identified **65.7% dependency** on top vendors and **$2.71M dead inventory**, delivering Power BI dashboards with actionable procurement insights. 
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 📊 Vendor Performance Analysis  
+- SQL ETL + Python EDA  
+- Vendor profitability & inventory insights  
+- Power BI dashboards for procurement decisions  
 
-### 🔹 E-Commerce Customer & Sales Analysis
-- **Engineered multi-table features** (delivery delays, sentiment labels) to analyze customer satisfaction drivers in e-commerce data.
-- Found strong correlation between delivery performance and ratings, **structuring data pipelines** ready for **supervised ML modeling**.
+</td>
 
----
+<td width="33%" valign="top">
 
-### 🎮 Python Game Projects
-- **2048 Game Clone** – Classic 2048 logic implemented in Python  
-- **Platformer Game** – Arcade-style platformer inspired by Mario, built to explore game mechanics and OOP design  
+### 🛒 E-Commerce Customer & Sales Analysis  
+- Feature engineering for delivery & sentiment  
+- Customer satisfaction analysis  
+- ML-ready structured pipelines  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎮 Python Games  
+- 2048 Game Clone  
+- Arcade-style Platformer  
+- Built with OOP and game logic design  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,14 +68,16 @@ Currently exploring the intersection of **data science, machine learning, and ba
 ## 📈 GitHub Stats
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkhare12&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthkhare12&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=parthkhare12&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Parth Khare](https://www.linkedin.com/in/parthkhare12/)
-- Email: khare.parth2112@gmail.com
+##  Connect With Me
+<a href="https://www.linkedin.com/in/parthkhare12/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:khare.parth2112@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 
 ---
 
