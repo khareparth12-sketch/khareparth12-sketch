@@ -67,7 +67,7 @@ Currently exploring the intersection of **data science, machine learning, and ba
 
 ## 📈 GitHub Stats
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkhare12&show_icons=true&theme=tokyonight)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthkhare12-sketch&show_icons=true&theme=tokyonight)
 
 ---
 
