@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Parth Khare
+<h1 align = "left">👋 Hi, I’m Parth Khare </h1>
 
-I’m a Python-focused developer and aspiring AI/ML engineer who enjoys turning raw data into scalable systems and actionable intelligence.  
-Currently exploring the intersection of **data science, machine learning, and backend engineering**, with a long-term goal of building production-grade AI applications.
+<p>I’m a Python-focused developer and aspiring AI/ML engineer who enjoys turning raw data into scalable systems and actionable intelligence.  
+Currently exploring the intersection of **data science, machine learning, and backend engineering**, with a long-term goal of building production-grade AI applications.</p>
 
 ---
 
 ##  What I Do
-- **Python Developer | Data Scientist | ML Engineer (in progress)**
+- **Python Developer | Data Scientist | AI Stack User**
 - Interested in building **data-driven systems, ML pipelines, and scalable AI applications**
 - Passionate about bridging the gap between research and real-world deployment
 
