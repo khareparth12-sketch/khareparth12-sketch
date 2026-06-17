@@ -1,84 +1,93 @@
-<h1 align = "left">👋 Hi, I’m Parth Khare </h1>
+<div align="left">
 
-<p>I’m a Python-focused developer and aspiring AI/ML engineer who enjoys turning raw data into scalable systems and actionable intelligence.  
-Currently exploring the intersection of **data science, machine learning, and backend engineering**, with a long-term goal of building production-grade AI applications.</p>
+<!-- Typing animation — cycles through what I build -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1200&color=888888&width=540&lines=FastAPI+%C2%B7+XGBoost+%C2%B7+PostgreSQL+%C2%B7+Docker;customer-churn-prediction+%E2%86%92+deployed;HireLens+AI+%E2%86%92+multi-tenant+SaaS;building+systems+that+run+in+prod" alt="Parth Khare" /></a>
 
----
+</div>
 
-##  What I Do
-- **Python Developer | Data Scientist | AI Stack User**
-- Interested in building **data-driven systems, ML pipelines, and scalable AI applications**
-- Passionate about bridging the gap between research and real-world deployment
+# Parth Khare &nbsp;`/ backend + ml`
 
----
-
-##  Skill Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,c,java,html,css,bootstrap,react,js,typescript,git,github,vscode&theme=light)](https://skillicons.dev)  
-
-### **Currently Exploring**
-- FastAPI, Flask  
-- Machine Learning libraries (scikit-learn, PyTorch/TensorFlow)  
-- Docker & AWS  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthkhare12/)
+[![Gmail](https://img.shields.io/badge/Gmail-khare.parth2112@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khare.parth2112@gmail.com)
+[![Demo](https://img.shields.io/badge/Live_Demo-churn_prediction-555555?style=flat-square&logo=render&logoColor=white)](https://churn-frontend-1s4b.onrender.com/)
 
 ---
 
-##  Featured Projects
+## shipped
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### customer churn prediction &nbsp;`live`
 
-### 📊 Vendor Performance Analysis  
-- SQL ETL + Python EDA  
-- Vendor profitability & inventory insights  
-- Power BI dashboards for procurement decisions  
+End-to-end ML system — XGBoost to prod, not just a notebook.
 
-</td>
+- XGBoost + Isotonic calibration · AUC ~0.84
+- Cost-matrix threshold optimization · FN = 10× FP
+- PSI-based drift monitoring at `/v1/drift`
+- Redis prediction cache by feature hash
+- GitHub Actions → Render CI/CD · fully containerized
 
-<td width="33%" valign="top">
+`FastAPI` `XGBoost` `Redis` `MLflow` `SHAP` `Docker` `PostgreSQL`
 
-### 🛒 E-Commerce Customer & Sales Analysis  
-- Feature engineering for delivery & sentiment  
-- Customer satisfaction analysis  
-- ML-ready structured pipelines  
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎮 Python Games  
-- 2048 Game Clone  
-- Arcade-style Platformer  
-- Built with OOP and game logic design  
-
-</td>
-</tr>
-</table>
+[![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khareparth12-sketch/customer-churn-prediction-python-scikitlearn)
+[![demo](https://img.shields.io/badge/demo-live-1D9E75?style=flat-square&logo=render&logoColor=white)](https://churn-frontend-1s4b.onrender.com/)
 
 ---
 
-## 🔮 Upcoming Projects
-- AI Resume Screener  
-- Customer Churn Analysis  
-- Scalable ML & AI system projects (deployment-focused)  
+### HireLens AI &nbsp;`full-stack saas`
+
+Multi-tenant SaaS resume screener with real billing.
+
+- Gemini API · semantic resume scoring 1–100%
+- Razorpay subscriptions + webhook lifecycle
+- Free → Personal → Enterprise tiers · async background tasks
+- Blind mode · bias-free candidate ranking
+- HttpOnly JWT cookies · XSS/CSRF hardened
+
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Gemini API` `Razorpay` `Docker`
+
+[![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khareparth12-sketch/ai-resume-analyzer-full-stack)
 
 ---
 
-## 📈 GitHub Stats
+### vendor performance analysis
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=khareparth12-sketch&show_icons=true&theme=tokyonight)
+SQL ETL pipeline → Python EDA → Power BI dashboards for procurement decisions.
 
----
+`Python` `SQL` `Power BI` `Pandas`
 
-##  Connect With Me
-<a href="https://www.linkedin.com/in/parthkhare12/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:khare.parth2112@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+[![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khareparth12-sketch/vendor-performance-analysis-sql-python-powerbi)
 
 ---
 
-> “Building systems that learn, scale, and make decisions.”
+### e-commerce sales analysis
+
+Feature engineering for delivery and sentiment signals. ML-ready pipelines.
+
+`Python` `Pandas` `scikit-learn` `Jupyter`
+
+[![repo](https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khareparth12-sketch/ecommerce-customer-and-sales-analysis)
+
+---
+
+## stack
+
+| layer | tools |
+|---|---|
+| backend / infra | Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions |
+| ml / data | XGBoost · scikit-learn · MLflow · SHAP · Pandas · Power BI |
+| frontend | React · TypeScript · Tailwind CSS · Vite |
+| integrations | Gemini API · Razorpay · Render |
+
+---
+
+## stats
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=khareparth12-sketch&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khareparth12-sketch&layout=compact&theme=default&hide_border=true&langs_count=5" />
+
+---
+
+## now
+
+- `VIT Bhopal CS` · mid-2026 grad
+- open to `SWE / ML Engineering` roles
+- building: anti-hallucination middleware for LLM pipelines
